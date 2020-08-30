@@ -1,6 +1,6 @@
 # IBM Coursera - Applied Data Science Capstone
 This project aims to use historical data to explore accidents and to build a model that predicts the accident severity.
-# To Predict Severity of an accident
+# To Predict the Severity of an accident
  ### Data Understanding
  
  <b><i> Data Source - KAGGLE- US Accidents (3.5 million records) - A Countrywide Traffic Accident Dataset (2016 - 2020)</i></b><br>
